@@ -1,0 +1,36 @@
+Description
+As a InterviewBallast user I want be able to create a player.
+
+Acceptance Criteria
+Given a InterviewBallast User
+When the user is login
+Then create a player with Firstname and Lastname as required
+
+
+
+Description
+As a InterviewBallast user I want be able to update a player.
+
+Acceptance Criteria
+Given a InterviewBallast User
+When the user is login
+Then update a player with Firstname and Lastname as required
+
+
+
+Description
+As a InterviewBallast user I want be able to delete a player.
+
+Acceptance Criteria
+Given a InterviewBallast User
+When the user is login
+Then delete a player by Id
+
+
+Description
+As a InterviewBallast user I want be able to get a player by Id.
+
+Acceptance Criteria
+Given a InterviewBallast User
+When the user is login
+Then get a player data by Id
